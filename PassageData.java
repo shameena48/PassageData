@@ -62,7 +62,7 @@ public class PassageData{
       
       // Return only Top 10 used words
       List<Map.Entry<String, Integer>> resultList = new ArrayList<>(map.entrySet());
-      //Collections.sort(resultList, new WordComparator());
+      // used Anonymous class
       Collections.sort(resultList, new Comparator<Map.Entry<String, Integer>>(){
        @Override
        public int compare(Map.Entry<String, Integer> obj1, Map.Entry<String, Integer> obj2) {
