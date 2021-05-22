@@ -1,0 +1,32 @@
+Output of the Program:
+
+Total Word Count in given file 443
+
+Top 10 words used & sorted on frequency of words are displayed below
+the : 18
+a : 16
+is : 15
+auctions : 14
+of : 13
+for : 13
+in : 12
+object : 11
+to : 10
+an : 9
+
+ Top 10 words used & sorted on words: 
+
+a : 16
+an : 9
+auctions : 14
+for : 13
+in : 12
+is : 15
+object : 11
+of : 13
+the : 18
+to : 10
+
+
+Lastsentence Containing MostUsed Word "the" is: 
+ closed formats are opague: only the seller is able to tell how much each customer is willing to pay for an object
